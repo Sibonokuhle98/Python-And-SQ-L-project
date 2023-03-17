@@ -1,2 +1,0 @@
-SELECT *
-FROM OPENQUERY(Vicidial, 'SELECT*FROM Users')
